@@ -5,7 +5,7 @@ start :-
 
 banner :-
   format("~n=== Sistema Especialista - Calculo de Mensalidade Escolar ===~n"),
-  format("Desenvolvido por: <Aluno(s): Diogo Horstmann Bezerra e Alisson Sommer Massaneiro> (@github/handle)~n~n").
+  format("Desenvolvido por: <Aluno(s): Diogo Horstmann Bezerra e Alisson Sommer Massaneiro> (https://github.com/DiogoHBdev/mensalidadeEscolar.git)~n~n").
 
 menu :-
   format("1) Calcular mensalidade~n2) Sair~n> "),
